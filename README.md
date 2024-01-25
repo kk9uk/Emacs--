@@ -1,5 +1,4 @@
-*Dedicated to Shelby Cheng*
-> I hate &lt;C-x&gt;.
+> I hate prefix keys.
 # Emacs--
 A text editor made to reduce Emacs population (by one).  
 &nbsp;
